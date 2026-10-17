@@ -1,0 +1,55 @@
+Sample Output:
+
+===== BANK ACCOUNT SIMULATOR =====
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. View Transaction History
+5. Exit
+Enter your choice (1-5): 2
+Enter amount to deposit: Rs. 2000
+Rs. 2000.00 deposited successfully.
+Updated Balance: Rs. 2000.00
+
+===== BANK ACCOUNT SIMULATOR =====
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. View Transaction History
+5. Exit
+Enter your choice (1-5): 3
+Enter amount to withdraw: Rs. 500
+Rs. 500.00 withdrawn successfully.
+Remaining Balance: Rs. 1500.00
+
+===== BANK ACCOUNT SIMULATOR =====
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. View Transaction History
+5. Exit
+Enter your choice (1-5): 1
+
+Current Balance: Rs. 1500.00
+
+===== BANK ACCOUNT SIMULATOR =====
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. View Transaction History
+5. Exit
+Enter your choice (1-5): 4
+
+----- Transaction History -----
+1. Deposited: Rs. 2000.00
+2. Withdrawn: Rs. 500.00
+--------------------------------
+
+===== BANK ACCOUNT SIMULATOR =====
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. View Transaction History
+5. Exit
+Enter your choice (1-5): 5
+Thank you for using the Bank Account Simulator!
